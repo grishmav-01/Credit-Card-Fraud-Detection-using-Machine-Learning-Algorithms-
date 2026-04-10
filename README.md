@@ -1,6 +1,8 @@
 # Credit-Card-Fraud-Detection-using-Machine-Learning-Algorithms-
 To detect fraudulent activities in credit card transaction and predict the result. Compare some efficient machine learning algorithms, finding the better accuracy and suggest model. Visualize dataset through model graphs using python libraires. Integrate machine learning model in the web-based framework for better user interface and user experience.
 
+Data Set is taken from Kaggle. 
+
 ## Objectives 
 The objectives that come across in fraud detection of credit cards are:
 - To identify and foresee the outcome of unauthorised credit card activity.
